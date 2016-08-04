@@ -1,2 +1,4 @@
 # Hellow-word
-Just another repositary
+Hi mufarrij
+
+this the first commit
